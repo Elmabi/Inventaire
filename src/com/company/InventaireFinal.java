@@ -11,7 +11,7 @@
  * - D'afficher la valeur totale de l'inventaire en fonction du Prix de vente et Prix de revient
  * <p>
  * <p>
- * Version 3.00, @author Armel Franck Djiongo
+ * Version 3.00, @author Elmabi
  */
 
 package com.company;
